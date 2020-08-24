@@ -1,5 +1,5 @@
 import requests
-url = 'https://api.telegram.org/bot1023662261:AAGTX-Xn-Ma0HBsobo6Jq1xZg1AxLjqIDVk/'
+url = 'https://api.telegram.org/bot<Api key>/'
 
 
 def get_chat_id(result):
